@@ -1,0 +1,34 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+body{
+    font-family: 'Charm', cursive;
+    
+}
+ hr {
+    border: 0;
+    height: 3px;
+    background: #095484;
+    background-image: linear-gradient(to right, #ccc, #095484, #ccc);
+  }
+  .card p{
+font-size: 1.5vw;
+  }
+ 
+video{
+    width:100%;
+    height:100%;
+}
+
+.btn{
+    width:100%;
+}
+#im,#imtick{
+   width: 1rem;
+}
+.projp{
+  font-size: 1.5vw;
+}
